@@ -26,7 +26,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/yaroslav-ua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yaroslav-ua" height="30" width="40" /></a>
-<a href="https://fb.com/yaroslav ua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yaroslav ua" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yaroslav-ua-6069761bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yaroslav-ua" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100001982153139" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yaroslav ua" height="30" width="40" /></a>
 <a href="https://discord.gg/d8m8VNA87a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="YAroslav_Ua#3935" height="30" width="40" /></a>
 </p>
