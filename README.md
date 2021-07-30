@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaroslav_Ua</h1>
-<h3 align="center">Full-stack Javascript Developer 💻 with military background.</h3>
+<h3 align="center">Full-stack Javascript Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yaroslav-uaa&label=Profile%20views&color=0e75b6&style=flat" alt="yaroslav-uaa" /> </p>
 
