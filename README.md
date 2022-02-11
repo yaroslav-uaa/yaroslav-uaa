@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yaroslav_Ua</h1>
 
-- 🎓 I'm a Full-stack Javascript Developer  
-- 💻 I’m currently working at [DeepXhub](https://www.deepxhub.com/) 
+- 🎓 I'm a Full-stack Javascript Developer
+- 💻 I’m currently working at [DeepXhub](https://www.deepxhub.com/)
 - ⭐ 2022's Objective: Create more useful code & apps   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love active sports, programming, new technologies, cars and dancing
 - 🔍 Looking for a dream team(company) to grow, code, and have fun
@@ -11,10 +11,16 @@
 -------------------
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaroslav-uaa&&theme=tokyonight&show_icons=true&locale=en" alt="yaroslav-uaa" /></p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/yaroslav-ua-6069761bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yaroslav-ua" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100001982153139" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yaroslav ua" height="30" width="40" /></a>
 <a href="https://discord.gg/d8m8VNA87a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="YAroslav_Ua#3935" height="30" width="40" /></a>
+</div>
+<br/>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=yaroslav-uaa&label=Profile%20views&color=0e75b6&style=flat" alt="yaroslav-uaa" /> </p>
+
+<h3 align="center">Support:</h3>
+<p align="center">
+<a href="https://www.buymeacoffee.com/ya.ua.dev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
+</a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yaroslav-uaa&label=Profile%20views&color=0e75b6&style=flat" alt="yaroslav-uaa" /> </p>
